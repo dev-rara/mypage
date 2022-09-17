@@ -1,2 +1,2 @@
 # MyPage
-study for HTML, CSS
+Study for HTML, CSS
